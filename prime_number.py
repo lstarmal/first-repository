@@ -4,3 +4,5 @@ def is_prime_number(x):
             print("The number {num1} is not a prime number.".format(num1=x))
             return
     print("The number {num1} is a prime number.".format(num1=x))
+
+is_prime_number(4)
